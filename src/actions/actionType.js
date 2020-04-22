@@ -1,0 +1,17 @@
+export const SERVICE_DATA = "SERVICE_DATA";
+export const CONFIG_DATA = "CONFIG_DATA";
+export const PROJECT_ID = "PROJECT_ID";
+export const OBJECT_LIST ="OBJECT_LIST";
+export const PROJECT_LIST ="PROJECT_LIST";
+export const ADD_METADATA ="ADD_METADATA";
+export const CURRENT_METADATA="CURRENT_METADATA";
+export const ADD_CURRENT_PORJECT="ADD_CURRENT_PROJECT";
+export const ADD_PROJECT="ADD_PROJECT";
+export const SIGN_IN ="SIGN_IN";
+export const SIGN_OUT ="SIGN_OUT";
+export const ADD_TOKEN="ADD_TOKEN";
+export const ADD_USER="ADD_USER";
+export const SQL_QUERY="SQL_QUERY";
+export const CONFIG_SERVICE="CONFIG_SERVICE"
+export const ADD_LOG  = "ADD_LOG"
+export const REMOVE_LOG ="REMOVE_LOG"
